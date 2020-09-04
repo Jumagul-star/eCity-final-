@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Продаю стиральную машину Самсунг.",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_8_604_0.jpg",
+      "price": "200",
+      "name": "Jumagul",
+      "phone": ""
+    },
+    {
+      "id": 2,
+      "title": "Продается двухкамерный холодильник 2018 года выпуска.",
+      "price": "22",
+      "image": "https://avatars.mds.yandex.net/get-mpic/1859063/img_id4802905408422108955.jpeg/orig",
+      "phone": "500 400 100",
+      "name": "Jumagul"
+    },
+    {
+      "id": 3,
+      "title": "Продаю свой старый пылесос.",
+      "price": "50",
+      "image": "https://clearspb.ru/sites/default/files/imagecache/product_full/karcher-vc2.jpg ",
+      "phone": "500 400 100",
+      "name": "Jumagul"
+    },
+    {
+      "id": 4,
+      "title": "Продаю новый блендер.",
+      "price": "400",
+      "image": "https://qpicture.ru/images/2020/03/13/tgb2.jpg",
+      "phone": "500 400 100",
+      "name": "Jumagul"
+    },
+    {
+      "id": 5,
+      "title": "Продается кофеварка.",
+      "price": "400",
+      "image": "https://kupi.kg/cache/files/market/2212.jpg_w320_h320_resize.jpg",
+      "phone": "500 400 100",
+      "name": "Jumagul"
+    },
+    {
+      "id": 6,
+      "title": "Продаю газплиту по хорошей цене",
+      "price": "200",
+      "image": "https://lh3.googleusercontent.com/proxy/F-wJZI0Aar1jk2fHrDH_ydJHymKzby4Vq6EkGouG8wr_ryPVWeURdVvRPVGva4IWkc3pZVrWcNC4aJe0mwQofaocfBxEE-8f",
+      "phone": "500 400 100",
+      "name": "Jumagul"
+    }
+  ]
+}
